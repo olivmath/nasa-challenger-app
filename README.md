@@ -2,7 +2,7 @@
 
 ## Challenger
 
-- Leveraging Earth Observation Data for Informed Agricultural Decision-Making**
+- Leveraging Earth Observation Data for Informed Agricultural Decision-Making
 
 ## Database
 
