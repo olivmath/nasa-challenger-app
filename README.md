@@ -15,5 +15,5 @@
 
 ## Project
 
-- Ideia v1: Provide a soya planting calendar based on our data collection (NASA)
 - Ideia v2: Provide a simple hydrological indicator based on data collected (NASA)
+- Ideia v1: Provide a soya planting calendar based on our data collection (NASA)
